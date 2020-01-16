@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Admin_MUC_13001220">
+  <Items>
+    <LogicalFolder Name="Verbindungen" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="NodeTwo:SQLDOM\Administrator">
+          <Created>2020-01-13T11:20:36.8841114+01:00</Created>
+          <Type>SQL</Type>
+          <Server>NodeTwo</Server>
+          <UserName />
+          <Authentication>Windows-Authentifizierung</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Abfrage</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Abfragen" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="0001_FirstSettings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0001_FirstSettings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0002_SystemDBs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0002_SystemDBs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0003_Datenbanken.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0003_Datenbanken.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0004_Seiten.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0004_Seiten.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0005_DBObjekte.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0005_DBObjekte.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0006_DBMail.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0006_DBMail.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_Operatoren_Warnungen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0007_Operatoren_Warnungen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0008_backup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0008_backup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0009_evi.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0009_evi.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0009_max.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0009_max.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0009_Security.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0009_Security.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0010_ContDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0010_ContDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0011_Wartung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0011_Wartung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0012_DMVs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0012_DMVs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0013_Monitoring.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0013_Monitoring.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0015_Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NodeTwo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NodeTwo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0015_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="instnwnd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>instnwnd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="IX_Fehlende Indizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>IX_Fehlende Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2017 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2017 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WAIT_STATS.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>WAIT_STATS.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
