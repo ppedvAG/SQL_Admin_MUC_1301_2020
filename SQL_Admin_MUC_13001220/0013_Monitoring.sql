@@ -30,7 +30,7 @@
 --Zur Analyse immer auch DMVs. So gut wie alle Auswertungen, Berichte etc im SSMS
 --werden durch DMVs erstellt.
 
---DMV der letzte Schliff der Analye
+--DMV der letzte Schliff der Analyse
 
 
 
